@@ -4,3 +4,4 @@
 - [选择框](https://jsbin.com/xovumofeyu/edit?output)
 - [炫酷的按钮](https://jsbin.com/yazexaxezu/1/edit?css,output)
 - [3D旋转](https://jsbin.com/xehuces/1/edit?css,output)
+- [蛇形走位边框](https://jsbin.com/xekopas/edit?output)

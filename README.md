@@ -6,3 +6,4 @@
 - [3D旋转](https://jsbin.com/xehuces/1/edit?css,output)
 - [蛇形走位边框](https://jsbin.com/xekopas/edit?html,output)
 - [sticky header](https://jsbin.com/mageletute/edit?output)
+- [email validation] (https://jsbin.com/jonebaliju/edit?js,output)
